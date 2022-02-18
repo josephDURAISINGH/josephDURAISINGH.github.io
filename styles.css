@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@1,500&display=swap');
+h1 {
+    font-family: 'Montserrat', sans-serif;
+    text-align: center;
+}
+html {
+    background-image: url("abstract-network-pattern--faded-colors.jpg"), url("abstract-network-pattern--faded-colors.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
